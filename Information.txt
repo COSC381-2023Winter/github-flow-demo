@@ -3,4 +3,4 @@ Hello World!
 In order to become a better programmer and engineer, you need to practice your 
 techniques often to sharpen your mind and way of thinking.
 Communication is key with your client a partners and remember to study often!
-Utilize the tools Github Offers you to make projects easy and fun.
+Utilize the tools Github Offers you to make projects easy and fun!
