@@ -11,3 +11,5 @@ This repository is for students to practice GitHub flow. Every student needs to 
 7. delete the branch
 
 The details can be seen at: https://canvas.emich.edu/courses/73774/assignments/1315570?module_item_id=3371349
+
+You need to login to Canvas to use the above link.
