@@ -2,6 +2,10 @@
 ## Description
 This repository is for me to practice GitHub flow. Every student needs to do the following things to add a helper message for a Git command:
 
+Git Command helper message: 
+git branch -m main: Renames the branch to main, instead of the default master. Other names can be used instead of main. -m determines 
+that the branch is to be renamed or moved.
+
 1. create an issue: students need to come up their own Git command and figure out an example to show how to use that Git command
 2. create a branch: students need to create a branch to add their commits
 3. add commits: students need to write in this README.md file to add their own Git command's helper message
