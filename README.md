@@ -1,6 +1,6 @@
 [doc] add new Git command's helper message to the readme.md file
 
-I added description for git commit --amend command 
+I added description for git commit --amend command. 
 
 #11 
 
