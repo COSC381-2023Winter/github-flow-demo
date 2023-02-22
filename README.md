@@ -1,21 +1,26 @@
-[doc] add new Git command's helper message to the readme.md file
-
-I added description for git commit --amend command. 
-
-#11 
-
 # github-flow-demo
 ## Description
-This repository is for me to practice GitHub flow. Every student needs to do the following things to add a helper message for a Git command:
+This repository is for me to practice GitHub flow. Every student needs to do the following things $
 
-Git Command helper message: 
-git branch -m main: Renames the branch to main, instead of the default master. Other names can be used instead of main. -m determines 
-that the branch is to be renamed or moved-
+Git Command helper message:
+git branch -m main: Renames the branch to main, instead of the default master. Other names can be $
+that the branch is to be renamed or moved.
 
-git commit --amend - Amend the previous commit with any staged changes.
+1. create an issue: students need to come up their own Git command and figure out an example to sh$
+2. create a branch: students need to create a branch to add their commits
+3. add commits: students need to write in this README.md file to add their own Git command's helpe$
+4. create a pull request
+5. address the review comments
+6. merge the pull request
+7. delete the branch
 
-Git command explanation:  
+The details can be seen at: https://canvas.emich.edu/courses/73774/assignments/1315570?module_item$
+
+You need to login to Canvas to use the above link.
+
+---
+
+Git command explanation:
 
 `git commit readme.md` Will commit the README file to the repository!
 
- git commit --amend - Amend the previous commit with any staged changes.
