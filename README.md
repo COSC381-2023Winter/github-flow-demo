@@ -25,3 +25,6 @@ Git command explanation:
 `git commit readme.md` Will commit the README file to the repository!
 
 'git branch <branch name>' (this will create a new branch with the desiganted name)
+
+
+'git status' (this will show the status of files in a repo) 
