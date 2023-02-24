@@ -25,3 +25,8 @@ Git command explanation:
 `git commit readme.md` Will commit the README file to the repository!
 
 'git branch <branch name>' (this will create a new branch with the desiganted name)
+
+'git log' (displays a history of commits made to the repository)
+    Options include: --graph (displays history in a chronological graph)
+                     --all (displays history of everything)
+                     --oneline (keeps commit description information to oneline)
