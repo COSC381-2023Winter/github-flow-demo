@@ -27,4 +27,4 @@ Git command explanation:
 'git branch <branch name>' (this will create a new branch with the desiganted name)
 
 
-'git status' (this will show the status of files in a repo) 
+'git status' (this will show the status of files in a repo)! 
