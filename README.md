@@ -25,3 +25,5 @@ Git command explanation:
 `git commit readme.md` Will commit the README file to the repository!
 
 'git branch <branch name>' (this will create a new branch with the desiganted name)
+
+'git switch <branch name> This command switches between different branches in git
