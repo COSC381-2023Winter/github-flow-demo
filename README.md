@@ -28,4 +28,4 @@ Git command explanation:
 
 Git command explanation: git merge
 
-'git merge  origin/feature1' (Merges two branches together into a singular branch)
+`git merge  origin/feature1` (Merges two branches together into a singular branch)
