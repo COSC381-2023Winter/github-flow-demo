@@ -25,3 +25,7 @@ Git command explanation:
 `git commit readme.md` Will commit the README file to the repository!
 
 'git branch <branch name>' (this will create a new branch with the desiganted name)
+
+Git command explanation: git merge
+
+'git merge  origin/feature1' (Merges two branches together into a singular branch)
