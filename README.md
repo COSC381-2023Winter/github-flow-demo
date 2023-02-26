@@ -29,3 +29,7 @@ Git command explanation:
 Git command explanation: git merge
 
 `git merge  origin/feature1` (Merges two branches together into a singular branch)
+ 
+Git command explanation: 
+
+`git rebase' (allows to  modify the commit history of a branch)
