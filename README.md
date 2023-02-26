@@ -29,3 +29,5 @@ Git command explanation:
 Git command explanation: git merge
 
 `git merge  origin/feature1` (Merges two branches together into a singular branch)
+
+`git checkout <branch>` will make a branch if not made yet, and will switch to that branch as current
