@@ -26,4 +26,4 @@ Git command explanation:
 
 'git branch <branch name>' (this will create a new branch with the desiganted name)
 
-'git switch <branch name> This command switches between different branches in git
+`git switch <branch name>` This command switches between different branches in git
