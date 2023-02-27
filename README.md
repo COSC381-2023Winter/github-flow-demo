@@ -30,3 +30,7 @@ Git command explanation:
     Options include: --graph (displays history in a chronological graph)
                      --all (displays history of everything)
                      --oneline (keeps commit description information to oneline)
+
+Git command explanation: git merge
+
+`git merge  origin/feature1` (Merges two branches together into a singular branch)
