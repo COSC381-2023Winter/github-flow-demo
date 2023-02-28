@@ -29,7 +29,7 @@ Git command explanation:
 'git log' (displays a history of commits made to the repository)
     Options include: --graph (displays history in a chronological graph)
                      --all (displays history of everything)
-                     --oneline (keeps commit description information to oneline)
+                     --oneline (keeps commit description information to oneline) :) <-- emoji
 
 Git command explanation: git merge
 
