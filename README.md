@@ -2,8 +2,8 @@
 ## Description
 This repository is for me to practice GitHub flow. Every student needs to do the following things to add a helper message for a Git command:
 
-Git Command helper message: 
-git branch -m main: Renames the branch to main, instead of the default master. Other names can be used instead of main. -m determines 
+Git Command helper message:
+git branch -m main: Renames the branch to main, instead of the default master. Other names can be used instead of main. -m determines
 that the branch is to be renamed or moved.
 
 1. create an issue: students need to come up their own Git command and figure out an example to show how to use that Git command
@@ -30,3 +30,7 @@ Git command explanation:
     Options include: --graph (displays history in a chronological graph)
                      --all (displays history of everything)
                      --oneline (keeps commit description information to oneline)
+
+Git command explanation: git merge
+
+`git merge  origin/feature1` (Merges two branches together into a singular branch)
