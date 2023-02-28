@@ -3,7 +3,8 @@
 This repository is for me to practice GitHub flow. Every student needs to do the following things $
 
 Git Command helper message:
-git branch -m main: Renames the branch to main, instead of the default master. Other names can be $
+
+git branch -m main: Renames the branch to main, instead of the default master. Other names can be used instead of main. -m determines
 that the branch is to be renamed or moved.
 
 1. create an issue: students need to come up their own Git command and figure out an example to sh$
@@ -27,6 +28,11 @@ Git command explanation:
 `git rebase <branch name>` Allows to modify the commit history of a branch.
 
 'git branch <branch name>' (this will create a new branch with the desiganted name)
+
+'git log' (displays a history of commits made to the repository)
+    Options include: --graph (displays history in a chronological graph)
+                     --all (displays history of everything)
+                     --oneline (keeps commit description information to oneline) :) <-- emoji
 
 Git command explanation: git merge
 
