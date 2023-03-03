@@ -34,6 +34,11 @@ Git command explanation:
                      --all (displays history of everything)
                      --oneline (keeps commit description information to oneline) :) <-- emoji
 
+
+'git push' to push any changes in the local working branch to the 
+remote branch.)
+
+
 Git command explanation: git merge
 
 `git merge  origin/feature1` (Merges two branches together into a singular branch)
