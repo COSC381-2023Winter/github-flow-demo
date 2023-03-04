@@ -2,6 +2,13 @@
 ## Description
 This repository is for me to practice GitHub flow. Every student needs to do the following things $
 
+
+git helper command message:
+
+git branch -d [branch name] this command deletes whatever branch of your chosing 
+
+
+
 Git Command helper message:
 
 git branch -m main: Renames the branch to main, instead of the default master. Other names can be used instead of main. -m determines
@@ -14,6 +21,8 @@ that the branch is to be renamed or moved.
 5. address the review comments
 6. merge the pull request
 7. delete the branch
+
+
 
 The details can be seen at: https://canvas.emich.edu/courses/73774/assignments/1315570?module_item$
 
