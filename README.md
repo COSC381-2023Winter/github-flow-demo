@@ -25,6 +25,8 @@ Git command explanation:
 
 `git commit readme.md` Will commit the README file to the repository!
 
+`git branch <branch name>` Will create a new Branch with given name
+
 `git rebase <branch name>` Allows to modify the commit history of a branch.
 
 'git branch <branch name>' (this will create a new branch with the desiganted name)
