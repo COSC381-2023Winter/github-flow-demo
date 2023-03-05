@@ -44,3 +44,4 @@ Git command explanation:
 
 `git rebase' (allows to  modify the commit history of a branch)
 
+`git switch <branch name>` This command allows you to switch between branches :smile:
