@@ -1,6 +1,6 @@
-# github-flow-demo
+[demo] github-flow-demo
 ## Description
-This repository is for me to practice GitHub flow. Every student needs to do the following things $
+This repository is for me to practice GitHub flow. Every student needs to do the following things to add a helper messege for a Git command:
 
 Git Command helper message:
 
@@ -18,7 +18,7 @@ that the branch is to be renamed or moved.
 6. merge the pull request
 7. delete the branch
 
-
+issue #61
 
 
 git helper command message:
@@ -54,12 +54,27 @@ Git command explanation: git merge
 Git command explanation: 
 
 `git rebase' (allows to  modify the commit history of a branch)
-
 `git switch <branch name>` This command allows you to switch between branches :smile:
-                         
-Git command explanation:
+                   
 'git diff' (This allows you to see the difference between any two branches or commits.)
     Options include: --output=<file> (outputs to a specific file)
                      --patch (creates a patch)
                      --raw (outputs the diff in RAW)
     Note that --patch is the default option.
+
+        
+ issue#41
+
+
+
+Git Command Explanation: `git add` <fileName>
+
+This moves the specific file into the next stage (awaiting a commit)
+
+`git switch <branch name>` This command allows you to switch begithub-flow-issue1tween branches :smile:
+
+`git cherry-pick <commit>` Given one or more existing commits, apply the change each one introduces, recording a new commit for each. 🛩️
+                      
+## Empty Change
+
+
