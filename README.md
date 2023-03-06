@@ -68,7 +68,6 @@ This moves the specific file into the next stage (awaiting a commit)
 
 `git cherry-pick <commit>` Given one or more existing commits, apply the change each one introduces, recording a new commit for each. 🛩️
 
-'git clean <option>' This command is used to clean the untracked files in a repository
+`git clean <option>` This command is used to clean the untracked files in a repository
                       
 ## Empty Change
-`
