@@ -42,7 +42,7 @@ Git command explanation:
 
 `git rebase' (allows to  modify the commit history of a branch)
 
-Git Command Explanation: git add <fileName>
+Git Command Explanation: `git add` <fileName>
 
 This moves the specific file into the next stage (awaiting a commit)
 
