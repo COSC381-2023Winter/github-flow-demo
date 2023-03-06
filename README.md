@@ -1,4 +1,4 @@
-# github-flow-demo
+[demo] github-flow-demo
 ## Description
 This repository is for me to practice GitHub flow. Every student needs to do the following things to add a helper messege for a Git command:
 
@@ -42,3 +42,4 @@ Git command explanation:
 
 `git rebase' (allows to  modify the commit history of a branch)
         
+ issue#41
