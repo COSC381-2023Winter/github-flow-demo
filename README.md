@@ -54,6 +54,13 @@ Git command explanation: git merge
 Git command explanation: 
 
 `git rebase' (allows to  modify the commit history of a branch)
+`git switch <branch name>` This command allows you to switch between branches :smile:
+                   
+'git diff' (This allows you to see the difference between any two branches or commits.)
+    Options include: --output=<file> (outputs to a specific file)
+                     --patch (creates a patch)
+                     --raw (outputs the diff in RAW)
+    Note that --patch is the default option.
 
         
  issue#41
