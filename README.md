@@ -18,7 +18,7 @@ that the branch is to be renamed or moved.
 6. merge the pull request
 7. delete the branch
 
-
+issue #61
 
 
 git helper command message:
