@@ -59,3 +59,4 @@ Git command explanation:
 
 `git cherry-pick <commit>` Given one or more existing commits, apply the change each one introduces, recording a new commit for each. 🛩️
                       
+## Empty Change
