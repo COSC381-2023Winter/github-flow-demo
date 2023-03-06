@@ -1,6 +1,6 @@
-[demo] github-flow-demo
+# github-flow-demo
 ## Description
-This repository is for me to practice GitHub flow. Every student needs to do the following things to add a helper messege for a Git command:
+This repository is for me to practice GitHub flow. Every student needs to do the following things $
 
 Git Command helper message:
 
@@ -55,10 +55,6 @@ Git command explanation:
 
 `git rebase' (allows to  modify the commit history of a branch)
 
-        
- issue#41
-
-
 
 Git Command Explanation: `git add` <fileName>
 
@@ -69,5 +65,4 @@ This moves the specific file into the next stage (awaiting a commit)
 `git cherry-pick <commit>` Given one or more existing commits, apply the change each one introduces, recording a new commit for each. 🛩️
                       
 ## Empty Change
-
 
