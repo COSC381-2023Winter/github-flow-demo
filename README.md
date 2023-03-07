@@ -84,6 +84,8 @@ This moves the specific file into the next stage (awaiting a commit)
 
 `git cherry-pick <commit>` Given one or more existing commits, apply the change each one introduces, recording a new commit for each. 🛩️
 
+`git blame <filename>` Gives line by line information of the last modification (who edited it, when was it edited, etc) :100:
+
 `git clean <option>` This command is used to clean the untracked files in a repository
                       
 ## Empty Change
