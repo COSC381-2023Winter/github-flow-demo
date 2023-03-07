@@ -1,4 +1,13 @@
 [demo] github-flow-demo
+
+Gym process:
+
+1. tricep
+2. bicep
+3. chest
+
+issue #67
+
 ## Description
 This repository is for me to practice GitHub flow. Every student needs to do the following things to add a helper messege for a Git command:
 
