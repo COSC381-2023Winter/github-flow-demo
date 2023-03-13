@@ -87,7 +87,8 @@ This moves the specific file into the next stage (awaiting a commit)
 `git blame <filename>` Gives line by line information of the last modification (who edited it, when was it edited, etc) :100:
 
 `git clean <option>` This command is used to clean the untracked files in a repository
- 
+
+ git push pushes repo to github 
 
 
 
