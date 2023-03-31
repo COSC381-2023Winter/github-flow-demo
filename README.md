@@ -58,7 +58,7 @@ Git command explanation:
 
 
 'git push' to push any changes in the local working branch to the 
-remote branch.)
+remote branch.) 🙂
 
 
 Git command explanation: git merge
